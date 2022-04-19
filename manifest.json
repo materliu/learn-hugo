@@ -1,0 +1,9 @@
+{
+  "name": "data power team",
+  "short_name": "data power team",
+  "start_url": "/",
+  "scope": "/",
+  "theme_color": "#4f46e5",
+  "background_color": "#4f46e5",
+  "display": "standalone"
+}
