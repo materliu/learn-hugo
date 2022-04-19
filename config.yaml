@@ -1,10 +1,10 @@
-baseURL: http://data-power.jd.com/
+baseURL: http://data-power.google.com/
 languageCode: zh-cn
 title: data power team
 theme: Eclectic
 author: 
-  email: "liujuguang@jd.com"
-  name: "liujuguang"
+  email: "materliu@gmail.com"
+  name: "materliu"
 
 menu:
   main:
@@ -19,11 +19,11 @@ menu:
 
 params:
   color: "#4f46e5"
-  copyright: "Copyright &copy; 2022 JD Corporation. All Rights Reserved."
+  copyright: "Copyright &copy; 2022 GooGle Corporation. All Rights Reserved."
   footer:
     - title: About
       content: >
-        JD's data-power team is the most professional team in the field of data.
+        Google's data-power team is the most professional team in the field of data.
 
     - title: Recent Blog Posts
       recent: blog
