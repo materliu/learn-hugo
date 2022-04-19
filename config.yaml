@@ -1,4 +1,32 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: http://data-power.jd.com/
+languageCode: zh-cn
+title: data power team
 theme: Eclectic
+author: 
+  email: "liujuguang@jd.com"
+  name: "liujuguang"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: 100
+    - identifier: contact
+      name: Contact
+      url: /contact
+      weight: 200
+
+params:
+  color: "#4f46e5"
+  copyright: "Copyright &copy; 2022 JD Corporation. All Rights Reserved."
+  footer:
+    - title: About
+      content: >
+        JD's data-power team is the most professional team in the field of data.
+
+    - title: Recent Blog Posts
+      recent: blog
+      recentCount: 7
+    - title: Contact Us
+      contact: true
